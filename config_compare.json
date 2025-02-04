@@ -1,0 +1,8 @@
+{
+    "Data_1": "Data_1.xlsx",
+    "Data_2": "Data_2.xlsx",
+    "Data_1_Sheet": "Data",
+    "Data_2_Sheet": "Data",
+    "OUTPUT_FILE": "Compare_Result.txt",
+    "Scan_Method": 0
+}
